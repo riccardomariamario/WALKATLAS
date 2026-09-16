@@ -1,0 +1,312 @@
+/* Generato dai seed normalizzati. Non modificare a mano. */
+window.WalkatlasCatalogMedia=Object.freeze([
+  {
+    "id": "8fb73162-dcd0-5894-80e0-9c6b599749e6",
+    "placeId": "9c8fc155-2bf7-563f-9229-8e506b1459a2",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/colosseo.jpg",
+    "storageKey": "places/colosseo/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 1920,
+    "height": 1127,
+    "credit": "Foto: Diliff, via Wikimedia Commons",
+    "license": "CC BY-SA 2.5",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Colosseum_in_Rome,_Italy_-_April_2007.jpg",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "verified",
+    "alt": {
+      "it": "Colosseo — fotografia 1"
+    },
+    "byteSize": 364319,
+    "checksumSha256": "4ec8e76a4eff3e665d923a2fea247a8c878463ecc78358c7dfa6975c6ab3ceee"
+  },
+  {
+    "id": "3538dff6-0607-5cbc-8999-7cf7d103323d",
+    "placeId": "6ff8b98b-03e4-5d9f-ad94-d65ecafb9f3a",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/paestum.jpg",
+    "storageKey": "places/paestum/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "Foto: Bernard Gagnon, via Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Temple_of_Poseidon,_Paestum_02.jpg",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "verified",
+    "alt": {
+      "it": "Paestum — fotografia 1"
+    },
+    "byteSize": 502823,
+    "checksumSha256": "35329a5f998a00e21095552807d3d428b04f82a5adcf363b45536a122a58d569"
+  },
+  {
+    "id": "457d46a4-994e-5190-a772-dd3b7bcb4759",
+    "placeId": "396808ee-4f58-5c60-bfb0-63335d658473",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/cerveteri.jpg",
+    "storageKey": "places/necropoli-di-cerveteri/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 1920,
+    "height": 1280,
+    "credit": "Foto: Sailko, via Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cerveteri,_necropoli_della_banditaccia,_tombe_a_camera_11.jpg",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "verified",
+    "alt": {
+      "it": "Necropoli di Cerveteri — fotografia 1"
+    },
+    "byteSize": 878495,
+    "checksumSha256": "2ef46bd5b831edf391b5cffc97848854388f01469dc472a7203758b8855c2cb8"
+  },
+  {
+    "id": "2b37bd35-71a5-597f-9c10-68ac0a0f5af3",
+    "placeId": "d0b3f29d-860d-5b95-b370-3ed508f69c10",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/nuraxi.jpg",
+    "storageKey": "places/su-nuraxi-di-barumini/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 1920,
+    "height": 1281,
+    "credit": "Foto: Norbert Nagel, via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nuraghe_Su_Nuraxi_-_Barumini_-_Sardinia_-_Italy_-_30.jpg",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "verified",
+    "alt": {
+      "it": "Su Nuraxi di Barumini — fotografia 1"
+    },
+    "byteSize": 479146,
+    "checksumSha256": "b1483faf586c690dab8355daf0cc3cd183f8211df344d909a082a4ad264775cc"
+  },
+  {
+    "id": "2c7622c4-e882-5dba-9c74-0c5ab11b6a8b",
+    "placeId": "9a3104f8-0c5e-5539-a6dc-90a9f63d793c",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/castel.jpg",
+    "storageKey": "places/castel-del-monte/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 1920,
+    "height": 1381,
+    "credit": "Foto: ParisTaras, via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Castel_del_Monte_-_Andria.jpg",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "verified",
+    "alt": {
+      "it": "Castel del Monte — fotografia 1"
+    },
+    "byteSize": 390786,
+    "checksumSha256": "d604f3e50ea65bd7eba6e9cb4ab044c561693344f00d97cea95e28e7b756ef46"
+  },
+  {
+    "id": "d13f6fc6-8456-5657-8125-04487ae1719c",
+    "placeId": "a2c04ef7-6aca-59f0-b6f9-73d59e5cf4d0",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/caserta.jpg",
+    "storageKey": "places/reggia-di-caserta/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 1920,
+    "height": 1255,
+    "credit": "Foto: Carsten Steger, via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_the_Palace_of_Caserta_(view_from_the_south).jpg",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "verified",
+    "alt": {
+      "it": "Reggia di Caserta — fotografia 1"
+    },
+    "byteSize": 760484,
+    "checksumSha256": "a393cf8c6e4be95c9945f01ce0a9bd1ce4163b52d2403beffa227ab40b913d2b"
+  },
+  {
+    "id": "fab55065-834f-5c76-b1dd-ea005c767b72",
+    "placeId": "84992d76-a503-5de7-bd41-28d7cb86ea6c",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/pietraroja.jpg",
+    "storageKey": "places/parco-geopaleontologico-di-pietraroja/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 1200,
+    "height": 800,
+    "credit": "Foto: Adam91, via Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Parco_geopaleontologico,_Pietraroja.jpg",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "verified",
+    "alt": {
+      "it": "Parco Geopaleontologico di Pietraroja"
+    },
+    "byteSize": 228083,
+    "checksumSha256": "35062faeccb1030b9cc711a4af20f7343b0705da890e6731d67452cfe3370f46"
+  },
+  {
+    "id": "69cae726-e73a-5ffe-a6ac-6bb2f4defdd8",
+    "placeId": "77bee6f5-2772-5985-a73c-d929fa53b240",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/altamura-orme.jpg",
+    "storageKey": "places/pista-dei-dinosauri-di-altamura/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 551,
+    "height": 367,
+    "credit": "Foto: Luca Bellarosa, via Wikimedia Commons",
+    "license": "CC BY-SA 4.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sito_con_orme_di_dinosauri_di_Altamura_(Cretacico_Superiore,_Bari,_Puglia)_Foto_Luca_Bellarosa_.jpg",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "verified",
+    "alt": {
+      "it": "Orme di dinosauri nella cava Pontrelli, Altamura"
+    },
+    "byteSize": 64978,
+    "checksumSha256": "fa1a7766ef4660271ff255726b54d480c7e3a068603ba6f46b757b09ad76fb77"
+  },
+  {
+    "id": "cec168a6-c977-5be5-aa2d-b5b8e03e9155",
+    "placeId": "ba6c2a27-7d08-51da-b4b1-bd765400d0bc",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/uffizi.jpg",
+    "storageKey": "places/galleria-degli-uffizi/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 1037,
+    "height": 691,
+    "credit": "Foto via Wikimedia Commons",
+    "license": "CC",
+    "rightsUrl": "https://creativecommons.org/",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "needs_review",
+    "alt": {
+      "it": "Facciata della Galleria degli Uffizi a Firenze"
+    },
+    "byteSize": 215131,
+    "checksumSha256": "689652d41b7762f4c4b166d24b31451149fc8408636193e89d141f786058129f"
+  },
+  {
+    "id": "40383df0-8ea4-5a12-a139-b9919c5ebc9e",
+    "placeId": "8de87ddd-f169-5c35-af21-3a98e9850bd0",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/museo-galileo.jpg",
+    "storageKey": "places/museo-galileo/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 1600,
+    "height": 1064,
+    "credit": "Foto via Wikimedia Commons",
+    "license": "CC",
+    "rightsUrl": "https://creativecommons.org/",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "needs_review",
+    "alt": {
+      "it": "Strumento storico conservato al Museo Galileo"
+    },
+    "byteSize": 334870,
+    "checksumSha256": "0016a36bb9cb6b1453dc0911e240c10e8cea32ecb58a9f81dde9a48015516a2d"
+  },
+  {
+    "id": "c2c19238-196c-57ee-8093-85bfface7909",
+    "placeId": "b414b2de-3d3a-5873-ac22-a07b7e517b2b",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/bargello.jpg",
+    "storageKey": "places/museo-nazionale-del-bargello/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 1600,
+    "height": 1200,
+    "credit": "Foto via Wikimedia Commons",
+    "license": "CC",
+    "rightsUrl": "https://creativecommons.org/",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "needs_review",
+    "alt": {
+      "it": "Palazzo del Bargello a Firenze"
+    },
+    "byteSize": 581282,
+    "checksumSha256": "c78ec523f8326ba8f49aa2084bde0ae2550442a726c56d1f1dd368cbdf0d88c2"
+  },
+  {
+    "id": "038181f7-67b2-57f9-8f46-9dce9b448d01",
+    "placeId": "482ea80e-874c-5b54-81b2-0df0e18e552a",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/duomo-firenze.jpg",
+    "storageKey": "places/cattedrale-di-santa-maria-del-fiore/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 1600,
+    "height": 1200,
+    "credit": "Foto via Wikimedia Commons",
+    "license": "CC",
+    "rightsUrl": "https://creativecommons.org/",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "needs_review",
+    "alt": {
+      "it": "Cattedrale di Santa Maria del Fiore vista dalla piazza"
+    },
+    "byteSize": 324670,
+    "checksumSha256": "1d6bc010fabcd4504c2b18917c579677cbd88a807c4eebc1319d135bf4014cf5"
+  },
+  {
+    "id": "b88a2824-c3ca-5c9c-bfb6-d60e88ed59b1",
+    "placeId": "05dcc267-5504-52fd-901e-ac2c397d7296",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/palazzo-vecchio.jpg",
+    "storageKey": "places/palazzo-vecchio/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 850,
+    "height": 1600,
+    "credit": "Foto via Wikimedia Commons",
+    "license": "CC",
+    "rightsUrl": "https://creativecommons.org/",
+    "sourceUrl": "https://commons.wikimedia.org/",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "needs_review",
+    "alt": {
+      "it": "Palazzo Vecchio in Piazza della Signoria"
+    },
+    "byteSize": 171235,
+    "checksumSha256": "76df8927e3faa5ca15a99c1aaf5c04d83b90fe995c9b0c6e01c2c3423eab96be"
+  },
+  {
+    "id": "357b4d52-67da-50ba-accc-db22a777e7bf",
+    "placeId": "37a68c80-b86e-5c51-88dd-2170565b90d5",
+    "role": "cover",
+    "sortOrder": 0,
+    "localPath": "walkatlas-v1-foto/accademia-firenze.jpg",
+    "storageKey": "places/galleria-dell-accademia/cover.jpg",
+    "mimeType": "image/jpeg",
+    "width": 1092,
+    "height": 1600,
+    "credit": "Foto: Jörg Bittner Unna, via Wikimedia Commons",
+    "license": "CC BY 3.0",
+    "rightsUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Michelangelo%27s_David_-_right_view_2.jpg",
+    "modifications": "Ridimensionata e compressa in JPEG per WALKATLAS; nessuna modifica del soggetto.",
+    "verificationStatus": "verified",
+    "alt": {
+      "it": "Galleria dell’Accademia a Firenze"
+    },
+    "byteSize": 179105,
+    "checksumSha256": "5b47834de5d7bc5d689c6beee692cc019a1aa17c9c6da05d397de529366154ea"
+  }
+]);
+window.PalinsestoCatalogMedia=window.WalkatlasCatalogMedia;
